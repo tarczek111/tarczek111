@@ -7,4 +7,4 @@ Hello I'm Szymon Tarczyński (tarczek111 --> tarczek7). I am learning the progra
 
 [☕] (𝗳𝗿𝗼𝗺 𝟮𝟬𝟮𝟰) --> (15 years old) - The year I started learning the Java programming language.
 
-- Interests: [🚲] riding a bike, [⚡️] gym, [🏀] playing basketball, [💿] listening to music.
+- Interests: [🚲] riding a bike, [⚡️] gym, [🏀] playing basketball, [💿] listening to music, [🗺️] geography 
